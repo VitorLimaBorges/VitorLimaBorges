@@ -22,8 +22,16 @@
   <a href="https://www.linkedin.com/in/vitor-lima-85719b197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/vitorlimaborges/vitorlimaborges/blob/output/github-contribution-grid-snake.svg)
- 
+    
 </div>
+<p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/vitorlimaborges/count.svg" />
+ </p>
+
+</p>
   
   
   
