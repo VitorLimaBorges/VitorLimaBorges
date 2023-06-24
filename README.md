@@ -29,7 +29,7 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
       <h3>Other places you can find me</h3>
       <ul>
         <li>
-          📷 <a https://instagram.com/vitor_limaborges">Follow me on instagram</a>
+          📷 <a href=https://instagram.com/vitor_limaborges> Follow me on instagram</a>
         </li>
         <li>
           📬 <a href=mailto:vitorlima_borges@hotmail.com>Contact-me on email</a>
