@@ -1,38 +1,47 @@
-## Opaa! Eu sou o Vitor Lima! 
-<div>
-  <a href="https://github.com/VitorLimaBorges">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorlimaborges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlimaborges&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+# Hi, I'm Vitor 👨🏻‍💻
+
+<h4 align="left">
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor_limaborges)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/VitorLimaBorges)](https://www.linkedin.com/in/vitor-lima-85719b197/)
+
+I'm passionate about technology! I had my first contact with computers when I was 5 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier. 
+I always try to improve myself more, I'm studying a bachelor's degree in Computer Science
+
+Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at vitorlima_borges@hotmail.com
+
+“Whatever the mind of man can conceive and believe, it can achieve” (Napoleon Hill)
+
+</h4>
   
- <div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-TL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Vitor-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Vitor-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Vitor-Hello-Word" height="150" witdh="150"       src="https://camo.githubusercontent.com/c7349616e6995fa3b26b1a0218895bf12f1c99eef377122dd7a91b2e71dc144c/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966">
-</div>
-  
-  ##
-  
- <div> 
-  <a href="https://instagram.com/vitor_limaborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/ilunari_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/VNEHBPRGnM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:vitorl_borges@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-lima-85719b197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/vitorlimaborges/vitorlimaborges/blob/output/github-contribution-grid-snake.svg)
+ <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <img width="400" src="https://i.imgur.com/JIPe7tB.gif" />
+    </td>
+    <td style="border: 0";>
+      <p>
+        💻 Studying to start doing amazing projects.
+      </p>
+      <p>
+        🌙 I like to learn
+      </p>
+      <h3>Other places you can find me</h3>
+      <ul>
+        <li>
+          📷 <a https://instagram.com/vitor_limaborges">Follow me on instagram</a>
+        </li>
+        <li>
+          📬 <a href=mailto:vitorlima_borges@hotmail.com>Contact-me on email</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorLimaBorges&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorLimaBorges&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorLimaBorges&theme=dark)) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorLimaBorges&theme=dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VitorLimaBorges&theme=dark&hide_border=true)](https://git.io/streak-stats) |
+| :-: | :-: |
     
-</div>
-<p align="center"> 
-  
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   
-   <img alingn="center" src="https://profile-counter.glitch.me/vitorlimaborges/count.svg" />
- </p>
-  
-</p>
