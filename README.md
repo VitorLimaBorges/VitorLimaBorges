@@ -39,7 +39,7 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
   </tr>
 </table>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorLimaBorges&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorLimaBorges&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorLimaBorges&theme=dark)) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorLimaBorges&theme=dark) | !![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorLimaBorges&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorLimaBorges&theme=dark)) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorLimaBorges&theme=dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VitorLimaBorges&theme=dark&hide_border=true)](https://git.io/streak-stats) |
