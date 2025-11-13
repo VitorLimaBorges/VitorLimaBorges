@@ -1,47 +1,84 @@
-# Hi, I'm Vitor 👨🏻‍💻
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<h4 align="left">
+###
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor_limaborges)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/VitorLimaBorges)](https://www.linkedin.com/in/vitor-lima-85719b197/)
+<div align="center">
+  <a href="www.linkedin.com/in/vitor-lima-borges" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="vitorlima_borges@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
-I'm passionate about technology! I had my first contact with computers when I was 5 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier. 
-I always try to improve myself more, I'm studying a bachelor's degree in Computer Science
+###
 
-Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at vitorlima_borges@hotmail.com
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+</div>
 
-“Whatever the mind of man can conceive and believe, it can achieve” (Napoleon Hill)
+###
 
-</h4>
-  
- <table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-      <img width="400" src="https://i.imgur.com/JIPe7tB.gif" />
-    </td>
-    <td style="border: 0";>
-      <p>
-        💻 Studying to start doing amazing projects.
-      </p>
-      <p>
-        🌙 I like to learn
-      </p>
-      <h3>Other places you can find me</h3>
-      <ul>
-        <li>
-          📷 <a href=https://instagram.com/vitor_limaborges> Follow me on instagram</a>
-        </li>
-        <li>
-          📬 <a href=mailto:vitorlima_borges@hotmail.com>Contact-me on email</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hello There👋</h1>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorLimaBorges&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorLimaBorges&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorLimaBorges&theme=dark) |
-| :-: | :-: | :-: |
+###
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorLimaBorges&theme=dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VitorLimaBorges&theme=dark&hide_border=true)](https://git.io/streak-stats) |
-| :-: | :-: |
-    
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm **Vitor Borges**, a **Software Developer** currently working at **Globals (weareglobals)**.<br><br>- 🔭 I’m working as a **Software Developer** at **Globals**, building digital solutions and products for clients.<br>- 📚 I'm currently learning **[coloque aqui: ex. React, Node.js, arquitetura de software]**<br>- ⚡ In my free time I **Estudo programação e gosto de jogar.**</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
