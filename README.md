@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Vitor Borges, a Software Developer currently working at Globals (weareglobals).<br><br>- 🔭 I’m working as a Software Developer at Globals, building digital solutions and products for clients.<br>- 📚 I'm currently learning React, Node.js, arquitetura de software, react native, Java, Quarkus, <br>- ⚡ In my free time I study and play games</p>
+<p align="left">I'm Vitor Borges, a Software Developer currently working at Zenite.<br><br>- 🔭 I’m working as a Software Developer at Zenite, building digital solutions and products for clients.<br>- 📚 I'm currently learning React, Node.js, software architecture, react native, Java, Quarkus, <br>- ⚡ In my free time I study and play games</p>
 
 ###
 
