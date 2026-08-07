@@ -81,7 +81,7 @@ A **white-label digital payment platform** designed for companies that need a cu
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,react,nextjs,nodejs,typescript,javascript,postgres,mysql,oracle,aws,docker,kubernetes,grafana,prometheus,tailwind,figma,xcode,jira,slack,git,github,vscode,idea,postman,jest,chakraui" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,django,pandas,fastapi,flask,swagger,redis,react,nextjs,nodejs,typescript,javascript,postgres,mysql,oracle,aws,docker,kubernetes,grafana,prometheus,tailwind,figma,xcode,jira,slack,git,github,vscode,idea,postman,jest,chakraui" />
 </p>
 
 ---
