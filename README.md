@@ -89,8 +89,14 @@ A **white-label digital payment platform** designed for companies that need a cu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorLimaBorges&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorLimaBorges&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    width="52%"
+    src="https://github-stats-extended.vercel.app/api?username=VitorLimaBorges&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    width="43%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=VitorLimaBorges&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+  />
 </p>
 
 ---
@@ -98,7 +104,10 @@ A **white-label digital payment platform** designed for companies that need a cu
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=VitorLimaBorges&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=VitorLimaBorges&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
