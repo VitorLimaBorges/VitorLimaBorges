@@ -28,6 +28,7 @@ Building scalable software with Java, Spring Boot, React and cloud technologies.
 💻 Passionate Full Stack Developer with experience building enterprise applications, REST APIs and modern web interfaces.
 
 - ☕ Java & Spring Boot
+- 🐍 Python
 - ⚛️ React & Next.js
 - 🟢 Node.js
 - 📜 TypeScript
