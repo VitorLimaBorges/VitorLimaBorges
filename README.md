@@ -55,7 +55,7 @@ A **white-label digital payment platform** designed for companies that need a cu
 
 **Tech Stack**
 
-`Java` `Spring Boot` `React` `PostgreSQL` `Docker` `Git`
+`Java` `Quarkus` `React` `PostgreSQL` `Docker` `Git`
 
 <div align="center">
   <a href="https://play.google.com/store/apps/details?id=br.com.sefer.bank&hl=pt_BR">
