@@ -4,11 +4,11 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
-### Full Stack Developer
+### Software Enginner
 
 Building scalable software with Java, Spring Boot, React and cloud technologies.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;React+%7C+Next.js;Node.js+%7C+TypeScript;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Enginner;Java+%7C+Spring+Boot;React+%7C+Next.js;Node.js+%7C+TypeScript;Always+Learning+New+Technologies" />
 
 </div>
 <p align="center">
@@ -25,7 +25,7 @@ Building scalable software with Java, Spring Boot, React and cloud technologies.
 
 ## 🚀 About Me
 
-💻 Passionate Full Stack Developer with experience building enterprise applications, REST APIs and modern web interfaces.
+💻 Passionate Software Enginner with experience building enterprise applications, REST APIs and modern web interfaces.
 
 - ☕ Java & Spring Boot
 - 🐍 Python
