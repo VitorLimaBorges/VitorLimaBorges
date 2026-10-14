@@ -41,41 +41,41 @@ Building scalable software with Java, Spring Boot, React and cloud technologies.
 
 ## 🚀 Featured Project
 
-### Sefer Pay
+### Finora
 
-A **white-label digital payment platform** designed for companies that need a customizable and scalable payment solution.
+A **personal finance management platform** designed to help users manage expenses, organize budgets, track financial goals, and monitor investments in one place.
 
-**Key Contributions**
-- Developed and maintained RESTful APIs using Java and Spring Boot.
-- Built responsive frontend features with React.
-- Implemented new business rules and payment workflows.
-- Improved system performance and application stability.
-- Collaborated with cross-functional teams to deliver new features.
-- Participated in code reviews and software architecture discussions.
+**Live Demo:** [Access Finora](https://finora.213.136.92.92.sslip.io/)
+
+**Key Features**
+- Expense tracking and categorization.
+- Financial dashboards and spending analysis.
+- Budget and financial goal management.
+- Open Finance integration for financial data aggregation.
+- Responsive interface focused on usability and accessibility.
 
 **Tech Stack**
 
-`Java` `Quarkus` `React` `PostgreSQL` `Docker` `Git`
+`Java 21` `Spring Boot 4.1` `React 19` `TypeScript` `Vite 7` `PostgreSQL 17` `Spring Security` `JWT` `Hibernate` `Flyway` `Docker` `GitHub Actions`
 
-<div align="center">
-  <a href="https://play.google.com/store/apps/details?id=br.com.sefer.bank&hl=pt_BR">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" 
-      alt="Disponível na Google Play" 
-      width="200"
-      style="display:inline;"
-    />
-  </a>
+---
 
-  <a href="https://apps.apple.com/br/app/sefer-pay/id6504534467">
-    <img 
-      src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" 
-      alt="Baixar na App Store" 
-      width="200"
-      style="display:inline;"
-    />
-  </a>
-</div>
+### CelestCRM
+
+A **customer relationship management (CRM) platform** designed to centralize prospect management, organize sales opportunities, and improve commercial workflows.
+
+**Live Demo:** [Access CelestCRM](https://celestcrm.213.136.92.92.sslip.io/login)
+
+**Key Features**
+- Prospect and customer management.
+- Sales opportunity tracking.
+- Centralized commercial information.
+- Business rules and sales workflow management.
+- Full-stack development focused on maintainability and scalability.
+
+**Tech Stack**
+
+`Java 21` `Spring Boot 3.x` `React` `TypeScript` `Vite` `PostgreSQL` `Spring Security` `JWT` `Spring Data JPA` `Hibernate` `Flyway` `OpenAPI` `Swagger UI` `Maven` `React Router` `TanStack Query` `React Hook Form` `Zod` `Tailwind CSS` `shadcn/ui` `JUnit 5` `Mockito` `Testcontainers` `Vitest` `React Testing Library` `Playwright` `Docker` `Coolify`
 
 ---
 
