@@ -82,7 +82,7 @@ A **customer relationship management (CRM) platform** designed to centralize pro
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,django,pandas,fastapi,flask,swagger,redis,react,nextjs,nodejs,nestjs,typescript,javascript,postgres,mysql,oracle,aws,docker,kubernetes,grafana,prometheus,tailwind,figma,xcode,jira,slack,git,github,vscode,idea,postman,jest,chakraui" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,fastapi,flask,redis,react,nextjs,nodejs,nestjs,ts,js,postgres,mysql,aws,docker,kubernetes,grafana,prometheus,tailwind,figma,git,github,vscode,idea,postman,jest&perline=14&size=40" />
 </p>
 
 ---
@@ -110,16 +110,6 @@ A **customer relationship management (CRM) platform** designed to centralize pro
     alt="GitHub Streak"
   />
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorLimaBorges&theme=tokyo-night"/>
-</p>
-
----
 
 ---
 
